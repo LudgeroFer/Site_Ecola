@@ -1,0 +1,21 @@
+
+html {
+  background: black
+}
+
+h1 {
+  color: beige;
+  text-align: center;
+  
+}
+
+p {
+  color: beige;
+  text-align: center;
+}
+
+.botao {
+  color: blueviolet;
+  background-color: black;
+  text-align: center;
+}
