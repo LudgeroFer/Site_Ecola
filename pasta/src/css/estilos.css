@@ -1,0 +1,12 @@
+
+.texto {
+    font-style: "Open Sans";
+    align-items: center;
+}
+
+.botao {
+    width: 80px;
+    height: 80px;
+    background-color: royalblue;
+    border-radius: 50%;
+}
